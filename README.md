@@ -1,6 +1,7 @@
 # Challenge_2_CPP_RandomWithArray
 Chanllenge day #2 Update code from day #1
 pic:
+
 ![image](https://user-images.githubusercontent.com/42646031/184905773-7ed89713-e0c9-4b98-a811-1aff7ba508b3.png)
 
 code:
